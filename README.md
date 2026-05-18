@@ -22,5 +22,5 @@ $$\text{Final Score} = (\text{Attendance} \times 0.30) + (\text{Normalized Study
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/kamalmo-engineer/AI-Student-Performance-Hub.git](https://github.com/kamalmo-engineer/AI-Student-Performance-Hub.git)
-   cd AI-Student-Performance-Hub
+   git clone [https://github.com/kamalmo-engineer/AI-Student-Performance.git](https://github.com/kamalmo-engineer/AI-Student-Performance.git)
+   cd AI-Student-Performance
